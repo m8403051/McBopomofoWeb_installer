@@ -1,4 +1,4 @@
-/.codex/
+﻿/.codex/
 /.personality_migration
 /archive/
 /auth.json
@@ -13,9 +13,6 @@
 /tmp/
 /workspace/
 
-/release/*
-!/release/current/
-/release/current/*
-!/release/current/install_pack.zip
-!/release/current/McBopomofo-PIME-Setup-Lite-2026.03.30.10.exe
+/release/
+
 
